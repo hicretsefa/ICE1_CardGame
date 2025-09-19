@@ -14,6 +14,7 @@ public class CardTrick {
     
     public static void main(String[] args)
     {
+        System.out.println("ICE1 by Hicret Sefa - running in NetBeans"); 
         Card[] magicHand = new Card[7];
         
         for (int i=0; i<magicHand.length; i++)
